@@ -1,4 +1,4 @@
-ID do pedido;Data;Cod. Produto;ID Loja;Quantidade;Valor Unitário;Valor Total
+ID do pedido;Data;Cod. Produto;ID Loja;Quantidade;Valor Unitario;Valor Total
 14242;44197;TR0002;L90011;5;5,37;26,85
 32104;44197;BA0001;L90011;1;50,42;50,42
 36203;44197;GO0003;L90011;2;56,29;112,58

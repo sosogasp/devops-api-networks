@@ -1,19 +1,19 @@
 Estado;Cidade;Clima Predominante
 AC;Rio Branco;Equatorial
-AL;Maceió;Tropical
+AL;Maceio;Tropical
 AM;Manaus;Equatorial
-AP;Macapá;Equatorial
+AP;Macapa;Equatorial
 BA;Salvador;Tropical
 CE;Fortaleza;Tropical
-DF;Brasília;Tropical
-ES;Vitória;Tropical
-GO;Goiânia;Tropical
-MA;São Luís;Tropical
+DF;Brasilia;Tropical
+ES;Vitoria;Tropical
+GO;Goiania;Tropical
+MA;Sao Luis;Tropical
 MG;Belo Horizonte;Tropical
 MS;Campo Grande;Tropical
-MT;Cuiabá;Tropical
-PA;Belém;Equatorial
-PB;João Pessoa;Tropical
+MT;Cuiaba;Tropical
+PA;Belem;Equatorial
+PB;Joao Pessoa;Tropical
 PE;Recife;Tropical
 PI;Teresina;Tropical
 PR;Curitiba;Subtropical
@@ -22,7 +22,7 @@ RN;Natal;Tropical
 RO;Porto Velho;Equatorial
 RR;Boa Vista;Tropical
 RS;Porto Alegre;Subtropical
-SC;Florianópolis;Subtropical
+SC;Florianopolis;Subtropical
 SE;Aracaju;Tropical
-SP;São Paulo;Subtropical
+SP;Sao Paulo;Subtropical
 TO;Palmas;Tropical

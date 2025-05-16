@@ -1,11 +1,11 @@
-Código;Tipo de Chocolate;Tendência Atual;Custo Estimado (R$/kg)
+Codigo;Tipo de Chocolate;Tendencia Atual;Custo Estimado (R$/kg)
 CH001;Chocolate Amargo 70%;Alta demanda (fitness/gourmet);52,9
 CH002;Chocolate ao Leite Belga;Popular em confeitaria premium;65
-CH003;Chocolate Branco com Limão;Tendência gourmet refrescante;59,3
+CH003;Chocolate Branco com Limao;Tendencia gourmet refrescante;59,3
 CH004;Chocolate Ruby;Crescendo em eventos/festivos;98
-CH005;Chocolate com Recheio;Recheios exóticos em alta;75,5
-CH006;Chocolate Vegano;Em ascensão com dietas especiais;89,9
+CH005;Chocolate com Recheio;Recheios exoticos em alta;75,5
+CH006;Chocolate Vegano;Em ascensao com dietas especiais;89,9
 CH007;Chocolate com Flor de Sal;Gourmet sofisticado;67,4
-CH008;Chocolate com Café;Combinação tendência;60
-CH009;Chocolate Zero Açúcar;Mercado fitness/diabéticos;70
-CH010;Chocolate Artesanal Local;Valorização de pequenos produtores;58,2
+CH008;Chocolate com Cafe;Combinacao tendencia;60
+CH009;Chocolate Zero Acucar;Mercado fitness/diabeticos;70
+CH010;Chocolate Artesanal Local;Valorizacao de pequenos produtores;58,2
