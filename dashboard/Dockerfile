@@ -23,4 +23,4 @@ COPY dashboard_vendas.ipynb .
 COPY run_notebook.py .
 
 # Comando para rodar o notebook convertido em script
-CMD ["python", "run_notebook.py"]
+CMD ["python", "graficos.ipynb"]
