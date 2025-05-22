@@ -1,21 +1,21 @@
-Produto,Categoria, Valor Unitario
-BA0001-Barra ao Leite Suprema,Barras de Chocolate, R$ 21.71
-BA0002-Barra com Frutas Vermelhas,Barras de Chocolate, R$ 11.62
-BA0003-Barra Dark Fantasia,Barras de Chocolate, R$ 33.76 
-BA0004-Barra de Caramelo Salgado,Barras de Chocolate, R$ 41.78 
-BO0001-Bombom de Caramelo Salgado,Bombons, R$ 14.74 
-BO0002-Bombom de Maracuja,Bombons, R$ 16.42
-BO0003-Bombom de Menta,Bombons, R$ 23.29
-BO0004-Bombom Trufado de Morango,Bombons, R$ 46.52 
-GO0001-Chocolate Belga com Amendoas,Chocolates Gourmet, R$ 162.26 
-GO0002-Chocolate com Caramelo Marinho,Chocolates Gourmet, R$ 84.30
-GO0003-Chocolate com Frutas Silvestres,Chocolates Gourmet, R$ 69.04
-GO0004-Chocolate Suico Trufado,Chocolates Gourmet, R$ 86.88
-OV0001-Ovo de Pascoa com Flocos de Caramelo,Ovos de Pascoa, R$ 56.29 
-OV0002-Ovo de Pascoa Dark,Ovos de Pascoa, R$ 67.43 
-OV0003-Ovo de Pascoa de Maracuja,Ovos de Pascoa, R$ 86.85 
-OV0004-Ovo de Pascoa Trufado,Ovos de Pascoa, R$ 50.42
-TR0001-Trufa de Amendoas,Trufas, R$ 8.06
-TR0002-Trufa de Baunilha,Trufas, R$ 5.37
-TR0003-Trufa de Laranja,Trufas, R$ 6.71
-TR0004-Trufa de Limao Siciliano,Trufas, R$ 8.87
+Cod. Produto;Produto;Categoria; Valor Unitario
+BA0001;Barra ao Leite Suprema;Barras de Chocolate; R$ 21.71
+BA0002;Barra com Frutas Vermelhas;Barras de Chocolate; R$ 11.62
+BA0003;Barra Dark Fantasia;Barras de Chocolate; R$ 33.76 
+BA0004;Barra de Caramelo Salgado;Barras de Chocolate; R$ 41.78 
+BO0001;Bombom de Caramelo Salgado;Bombons; R$ 14.74 
+BO0002;Bombom de Maracuja;Bombons; R$ 16.42
+BO0003;Bombom de Menta;Bombons; R$ 23.29
+BO0004;Bombom Trufado de Morango;Bombons; R$ 46.52 
+GO0001;Chocolate Belga com Amendoas;Chocolates Gourmet; R$ 162.26 
+GO0002;Chocolate com Caramelo Marinho;Chocolates Gourmet; R$ 84.30
+GO0003;Chocolate com Frutas Silvestres;Chocolates Gourmet; R$ 69.04
+GO0004;Chocolate Suico Trufado;Chocolates Gourmet; R$ 86.88
+OV0001;Ovo de Pascoa com Flocos de Caramelo;Ovos de Pascoa; R$ 56.29 
+OV0002;Ovo de Pascoa Dark;Ovos de Pascoa; R$ 67.43 
+OV0003;Ovo de Pascoa de Maracuja;Ovos de Pascoa; R$ 86.85 
+OV0004;Ovo de Pascoa Trufado;Ovos de Pascoa; R$ 50.42
+TR0001;Trufa de Amendoas;Trufas; R$ 8.06
+TR0002;Trufa de Baunilha;Trufas; R$ 5.37
+TR0003;Trufa de Laranja;Trufas; R$ 6.71
+TR0004;Trufa de Limao Siciliano;Trufas; R$ 8.87

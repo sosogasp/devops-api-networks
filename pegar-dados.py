@@ -1,6 +1,7 @@
 import pandas as pd
 from sqlalchemy import create_engine
 
+
 df_lojas = pd.read_csv('./Lojas.csv', sep=';')
 df_produtos = pd.read_csv('./Produtos.csv', sep=';')
 df_clima = pd.read_csv('./Clima.csv', sep=';')
@@ -8,7 +9,7 @@ df_chocolate = pd.read_csv('./Chocolate.csv', sep=';')
 df_vendas = pd.read_csv('./Vendas.csv', sep=';')
 
 usuario = 'usuario'
-senha = '123456'
+senha = '1234'
 host = 'localhost'  # ou IP do servidor
 porta = '5432'
 banco = 'dashboard'
