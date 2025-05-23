@@ -1,15 +1,16 @@
 import pandas as pd
 from sqlalchemy import create_engine
 
-df_lojas = pd.read_csv('./Lojas.csv')
-df_produtos = pd.read_csv('./Produtos.csv')
-df_clima = pd.read_csv('./Clima.csv')
-df_chocolate = pd.read_csv('./Chocolate.csv')
-df_vendas = pd.read_csv('./Vendas.csv')
+df_lojas = pd.read_csv('Lojas.csv')
+df_produtos = pd.read_csv('Produtos.csv')
+df_clima = pd.read_csv('Clima.csv')
+df_chocolate = pd.read_csv('Chocolate.csv')
+df_vendas = pd.read_csv('Vendas.csv')
 
-usuario = 'postgres'
+
+usuario = 'usuario'
 senha = '1234'
-host = 'db-devops'  
+host = 'devops-postgres'  
 porta = '5432'
 banco = 'dashboard'  
 

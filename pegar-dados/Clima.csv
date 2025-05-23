@@ -1,28 +1,28 @@
-Estado;Cidade;Clima Predominante
-AC;Rio Branco;Equatorial
-AL;Maceio;Tropical
-AM;Manaus;Equatorial
-AP;Macapa;Equatorial
-BA;Salvador;Tropical
-CE;Fortaleza;Tropical
-DF;Brasilia;Tropical
-ES;Vitoria;Tropical
-GO;Goiania;Tropical
-MA;Sao Luis;Tropical
-MG;Belo Horizonte;Tropical
-MS;Campo Grande;Tropical
-MT;Cuiaba;Tropical
-PA;Belem;Equatorial
-PB;Joao Pessoa;Tropical
-PE;Recife;Tropical
-PI;Teresina;Tropical
-PR;Curitiba;Subtropical
-RJ;Rio de Janeiro;Tropical
-RN;Natal;Tropical
-RO;Porto Velho;Equatorial
-RR;Boa Vista;Tropical
-RS;Porto Alegre;Subtropical
-SC;Florianopolis;Subtropical
-SE;Aracaju;Tropical
-SP;Sao Paulo;Subtropical
-TO;Palmas;Tropical
+Estado,Cidade,Clima Predominante
+AC,Rio Branco,Equatorial
+AL,Maceio,Tropical
+AM,Manaus,Equatorial
+AP,Macapa,Equatorial
+BA,Salvador,Tropical
+CE,Fortaleza,Tropical
+DF,Brasilia,Tropical
+ES,Vitoria,Tropical
+GO,Goiania,Tropical
+MA,Sao Luis,Tropical
+MG,Belo Horizonte,Tropical
+MS,Campo Grande,Tropical
+MT,Cuiaba,Tropical
+PA,Belem,Equatorial
+PB,Joao Pessoa,Tropical
+PE,Recife,Tropical
+PI,Teresina,Tropical
+PR,Curitiba,Subtropical
+RJ,Rio de Janeiro,Tropical
+RN,Natal,Tropical
+RO,Porto Velho,Equatorial
+RR,Boa Vista,Tropical
+RS,Porto Alegre,Subtropical
+SC,Florianopolis,Subtropical
+SE,Aracaju,Tropical
+SP,Sao Paulo,Subtropical
+TO,Palmas,Tropical

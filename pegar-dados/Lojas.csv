@@ -1,7 +1,7 @@
-ID Loja;Loja;Cidade
-L90011;BrownSweet;"Porto Alegre; RS; Brasil"
-L90012;CacaoParadise;"Belo Horizonte; MG; Brasil"
-L90013;ChocoDelight;"São Paulo; SP; Brasil"
-L90014;GoldCacao;"Florianópolis; SC; Brasil"
-L90015;RichChoco;"Curitiba; PR; Brasil"
-L90016;SweetCacao;"Rio de Janeiro; RJ; Brasil"
+ID Loja,Loja,Cidade
+L90011,BrownSweet,"Porto Alegre, RS, Brasil"
+L90012,CacaoParadise,"Belo Horizonte, MG, Brasil"
+L90013,ChocoDelight,"São Paulo, SP, Brasil"
+L90014,GoldCacao,"Florianópolis, SC, Brasil"
+L90015,RichChoco,"Curitiba, PR, Brasil"
+L90016,SweetCacao,"Rio de Janeiro, RJ, Brasil"
